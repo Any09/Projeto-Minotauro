@@ -21,10 +21,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direcõ ",
+        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direções, você se lembra das armadilhas e tenta achar uma saída, no caminho da direita você se depara com várias estátuas de pedra, no segundo caminho tudo parece normal e sem perigo a vista, e no terceiro não há saída, então você vai pelo...  ",
         alternativas: [
             {
-                texto: ".",
+                texto: "Escolho o primeiro caminho, pois o segundo não tem saída.",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
@@ -33,7 +33,7 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Escolho o segundo caminho.",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",

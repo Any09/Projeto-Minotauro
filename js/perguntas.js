@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: "Isso é assustador! Mas preciso ajudá-lo",
                 afirmacao: [
-                    "Você mostrou muita coragem em enfrentar os perigos do labirinto e o Minotauro.",
+                    "Você mostrou muita coragem em enfrentar os perigos do labirinto e o Minotauro sozinho.",
                     
                 ],
                 proxima: 1,

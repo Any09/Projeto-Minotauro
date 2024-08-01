@@ -21,7 +21,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. ",
+        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direcõ ",
         alternativas: [
             {
                 texto: ".",

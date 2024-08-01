@@ -16,6 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-size: 50%;
 }
 
 .caixa-principal{

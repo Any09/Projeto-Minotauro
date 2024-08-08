@@ -21,6 +21,27 @@ export const perguntas = [
         ]
     },
     {
+        enunciado: "Você resolveu anteriormente pedir ajuda aos deuses do Olimpo, então você recebe o visita de Hermes, mensageiro dos deuses, ele ouviu seu chamado e lhe oferece a ajuda de Atena, deusa da sabedoria, ela se comoveu com a sua, ela envia Teseu, um heroí grego para a  ",
+        alternativas: [
+            {
+                texto: "Escolho o primeiro caminho, pois o segundo não tem saída.",
+                afirmacao: [
+                    "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, a mesma da história grega, que transformava pessoas em pedra com seu olhar."
+                ],
+                proxima: 3,
+            },
+            {
+                texto: "Escolho o segundo , parece mais normal.",
+                afirmacao: [
+                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
+                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
+                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                ],
+                proxima: 4,
+            },
+        ]
+    },
+    {
         enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direções, você se lembra das armadilhas e tenta achar uma saída, no caminho da direita você se depara com várias estátuas de pedra, no segundo caminho tudo parece normal e sem perigo a vista, e no terceiro não há saída, então você vai pelo...  ",
         alternativas: [
             {
@@ -68,18 +89,16 @@ export const perguntas = [
         enunciado: "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transformava pessoas em pedra com seu olhar. Nesse labirinto tudo pode acontecer, é melhor prestar atenção em tudo e todos os lugares, além das armadilhas, aqui as história da mitologia ganham vida e estão a procura de sua próxima vítima. ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    ""
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    ""
                 ],
                 proxima: 6,
             },

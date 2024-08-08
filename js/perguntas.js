@@ -19,7 +19,7 @@ export const perguntas = [
                 proxima: 2,
             },
         ]
-    ,
+    },
     {
         enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direções, você se lembra das armadilhas e tenta achar uma saída, no caminho da direita você se depara com várias estátuas de pedra, no segundo caminho tudo parece normal e sem perigo a vista, e no terceiro não há saída, então você vai pelo...  ",
         alternativas: [
@@ -57,21 +57,10 @@ export const perguntas = [
         },
         
     {
-        enunciado: "então,pensando ser algum tipo de pegatinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",
-        
-        alternativas: [
-            {
-                texto: "ele deveria pensar melhor e tentar voltar ao caminho mais facil.",
-                afirmacao: [
-                    "a medusa quase o pegou e tranformou a uma de suas mãos em pedra.",
-                    "foi esperto e consequiu passar sem a medusa o ver.",
-                    "tava passando escondido e viu os outros cavalheiros que tentaram esse caminho"
-                ],
-                proxima: 3,
-            },
-            {
-                texto: "ele deveria continuar no caminho que ele tinha pegado",
-                afirmacao: [
+        enunciado: "então,pensando ser algum tipo de pegatinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",          },
+                    {
+                        texto: "ele deveria continuar no caminho que ele tinha pegado",
+                        afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."

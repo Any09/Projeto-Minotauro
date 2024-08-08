@@ -47,14 +47,14 @@ export const perguntas = [
                 afirmacao: [
                     "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transforma pessoas em pedra com seu olhar."
                 ],
-                proxima: 4,
+                proxima:5,
             },
             {
                 texto: "Escolho o segundo , parece mais normal.",
                 afirmacao: [
                     ""
                 ],
-                proxima: 3,
+                proxima: 6,
             },
         ]
     },

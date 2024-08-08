@@ -68,9 +68,9 @@ export const perguntas = [
             {
                 texto: "ele deveria pensar melhor e tentar voltar ao caminho mais facil.",
                 afirmacao: [
-                    "a medusa quase o pegou e tranformou a  sua mão em pedra.",
+                    "a medusa quase o pegou e tranformou a uma de suas mãos em pedra.",
                     "foi esperto e consequiu passar sem a medusa o ver.",
-                    ""
+                    "tava passando escondido e viu o "
                 ],
                 proxima: 3,
             },

@@ -70,7 +70,7 @@ export const perguntas = [
                 afirmacao: [
                     "a medusa quase o pegou e tranformou a uma de suas mãos em pedra.",
                     "foi esperto e consequiu passar sem a medusa o ver.",
-                    "tava passando escondido e viu o "
+                    "tava passando escondido e viu os outros cavalheiros que tentaram esse caminho"
                 ],
                 proxima: 3,
             },

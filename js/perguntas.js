@@ -21,21 +21,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você resolveu anteriormente pedir ajuda aos deuses do Olimpo, então você recebe o visita de Hermes, mensageiro dos deuses, ele ouviu seu chamado e lhe oferece a ajuda de Atena, deusa da sabedoria, ela se comoveu com a sua, ela envia Teseu, um heroí grego para a  ",
+        enunciado: "Você resolveu anteriormente pedir ajuda aos deuses do Olimpo, então você recebe o visita de Hermes, mensageiro dos deuses, ele ouviu seu chamado e lhe oferece a ajuda de Atena, deusa da sabedoria, ela se comoveu com a sua coragem e bondade para salvar sua(seu) irmã(o), ela envia Teseu, um heroí grego para ajudar a salvar sua família. Então vocês...",
         alternativas: [
             {
-                texto: "Escolho o primeiro caminho, pois o segundo não tem saída.",
+                texto: "Escolhemos o primeiro caminho, pois o terceiro não tem saída não tem saída.",
                 afirmacao: [
-                    "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, a mesma da história grega, que transformava pessoas em pedra com seu olhar."
+                    "."
                 ],
-                proxima: 3,
+                proxima: 4,
             },
             {
-                texto: "Escolho o segundo , parece mais normal.",
+                texto: "Escolhemos o segundo.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    ""
                 ],
                 proxima: 4,
             },
@@ -47,23 +45,25 @@ export const perguntas = [
             {
                 texto: "Escolho o primeiro caminho, pois o segundo não tem saída.",
                 afirmacao: [
-                    "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, a mesma da história grega, que transformava pessoas em pedra com seu olhar."
+                    "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transforma pessoas em pedra com seu olhar."
                 ],
-                proxima: 3,
+                proxima: 4,
             },
             {
                 texto: "Escolho o segundo , parece mais normal.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    ""
                 ],
-                proxima: 4,
+                proxima: 3,
             },
         ]
     },
     {
+<<<<<<< HEAD
+        enunciado: "",
+=======
         enunciado: "então,pensando ser algum tipo de pegatinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",
+>>>>>>> 331e9bfe667feb04ffb5d13476dcb9e2fa46bd06
         alternativas: [
             {
                 texto: "ele deveria pensar melhor e tentar voltar ao caminho mais facil.",
@@ -86,17 +86,17 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transformava pessoas em pedra com seu olhar. Nesse labirinto tudo pode acontecer, é melhor prestar atenção em tudo e todos os lugares, além das armadilhas, aqui as história da mitologia ganham vida e estão a procura de sua próxima vítima. ",
+        enunciado: "Nesse labirinto tudo pode acontecer, é melhor prestar atenção em tudo e todos os lugares, além das armadilhas, aqui as história da mitologia ganham vida e estão a procura de sua próxima vítima. Muito bem, você escolheu o segundo caminho, nada parece fora do lugar aqui, execeto por algumas armadilhas afiadas. Quando você olha para cima, vẽ uma enorme rocha sendo acionada por rodanas, e procura espaço para passar sem que a rocha te esmague.",
         alternativas: [
             {
-                texto: "",
+                texto: "Vocẽ tenta passar, mas pensa melhor e procura algo para cortar a corda, fazendo a pedra cair e rolar, liberando a passagem.",
                 afirmacao: [
-                    ""
+                    "Pensar em todas as situações pode realmente salvar sua vida aqui."
                 ],
                 proxima: 5,
             },
             {
-                texto: "",
+                texto: "Você tenta passar, mas acaba acionando a armadilha através de um fio tão fino que é quase invisível, mas você se joga para o outro lado, porém, a passagem agora está bloqueada, você não vai poder mais voltar, terá que seguir em frente.",
                 afirmacao: [
                     ""
                 ],

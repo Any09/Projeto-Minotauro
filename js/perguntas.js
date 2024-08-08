@@ -63,10 +63,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: " ",
+        enunciado: "então,pensando ser algum tipo de pegatinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "ele deveria pensar melhor e tentar voltar ao caminho mais facil.",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
@@ -75,7 +75,7 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "ele deveria continuar no caminho que ele tinha pegado",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",

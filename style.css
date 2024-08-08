@@ -37,7 +37,7 @@ h1 {
 
 button {
     background-color: var(--cor-secundaria);
-    color: var(--cor-texto);
+    color: white;
     border: none;
     border-radius: 15px;
     padding: 15px;

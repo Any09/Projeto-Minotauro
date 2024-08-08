@@ -57,11 +57,8 @@ export const perguntas = [
         },
         
     {
-<<<<<<< HEAD
-        enunciado: "",
-=======
         enunciado: "então,pensando ser algum tipo de pegatinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",
->>>>>>> 331e9bfe667feb04ffb5d13476dcb9e2fa46bd06
+        
         alternativas: [
             {
                 texto: "ele deveria pensar melhor e tentar voltar ao caminho mais facil.",

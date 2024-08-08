@@ -13,7 +13,7 @@ export const perguntas = [
             {
                 texto: "Decido pedir aos deuses gregos do Olimpo, e eles enviam um heroí grego, filho do rei Egeu, era o heroí máximo ateniense.",
                 afirmacao: [
-                    "Você é alguém responsável, que não arriscaria a vida de quem ama e decidiu que pedir ajuda era uma maneira menos perigosa de sairem de lá.",
+                    "Você é alguém responsável, que não arriscaria a vida de quem é importante para você, e decidiu que pedir ajuda era uma maneira menos perigosa de sairem de lá.",
                     
                 ],
                 proxima: 2,
@@ -26,14 +26,12 @@ export const perguntas = [
             {
                 texto: "Escolho o primeiro caminho, pois o segundo não tem saída.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, a mesma da história grega, que transformava pessoas em pedra com seu olhar."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escolho o segundo caminho.",
+                texto: "Escolho o segundo , parece mais normal.",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
@@ -67,7 +65,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transformava pessoas em pedra com seu olhar. Nesse labirinto tudo pode acontecer ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",

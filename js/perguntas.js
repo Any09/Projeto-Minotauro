@@ -65,7 +65,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transformava pessoas em pedra com seu olhar. Nesse labirinto tudo pode acontecer ",
+        enunciado: "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transformava pessoas em pedra com seu olhar. Nesse labirinto tudo pode acontecer, é melhor prestar atenção em tudo e todos os lugares, além das armadilhas, aqui as história da mitologia ganham vida e estão a procura de sua próxima vítima. ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",

@@ -68,9 +68,9 @@ export const perguntas = [
             {
                 texto: "ele deveria pensar melhor e tentar voltar ao caminho mais facil.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "a medusa quase o pegou e tranformou a  sua mão em pedra.",
+                    "foi esperto e consequiu passar sem a medusa o ver.",
+                    ""
                 ],
                 proxima: 3,
             },

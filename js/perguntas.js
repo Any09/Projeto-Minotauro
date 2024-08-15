@@ -38,7 +38,8 @@ export const perguntas = [
                 proxima: 6,
             },
         ]
-    ,
+    },
+    {
     enunciado: "Você resolveu anteriormente pedir ajuda aos deuses do Olimpo, então você recebe o visita de Hermes, mensageiro dos deuses, ele ouviu seu chamado e lhe oferece a ajuda de Atena, deusa da sabedoria, ela se comoveu com a sua coragem e bondade para salvar sua(seu) irmã(o), ela envia Teseu, um heroí grego para ajudar a salvar sua família. Então vocês...",
     alternativas: [
         {
@@ -55,18 +56,27 @@ export const perguntas = [
             ],
             proxima: 4,
         },
+    ]
+},
         
     {
-        enunciado: "então,pensando ser algum tipo de pegatinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",          },
+        enunciado: "então,pensando ser algum tipo de pegadinha você escolhe o caminho das estatuas, a princípio você não ve nada e diz a si mesmo com todo orgulhoso, eu sabia, eu estava serto erra uma pegadinha, mas quanto mais andava mais estranho ficava, o cenário foi aparecendo cada vez mais e mais estatuas, de diferentes tempos e épocas, então ele viu uma pessoa que estava no livro que sua mãe lia a ele quando erra criança assustado começa a correr,então bate de frente com a medusa, sem pensar muito assustado corre a um caminho qualquer...  ",
+        alternativas: [
+              
                     {
                         texto: "ele deveria continuar no caminho que ele tinha pegado",
                         afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",   
                 ],
                 proxima: 4,
             },
+            {
+                texto: "ele deveria continuar no caminho que ele tinha pegado",
+                afirmacao: [
+            "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",   
+        ],
+        proxima: 4,
+    },
         ]
     },
     {

@@ -21,10 +21,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direções, você se lembra das armadilhas e tenta achar uma saída, no caminho da direita você se depara com várias estátuas de pedra, no segundo caminho tudo parece normal e sem perigo a vista, e no terceiro não há saída, então você vai pelo...  ",
+        enunciado: "Você então entra no labirinto carregando uma tocha de fogo na mão, logo mais vai anoitecer, e a noite as coisas ficam mais perigosas, os perigos e armadilhas estão a espreita nesse lugar... Você deve tomar cuidado onde pisa. Logo em frente você se depara com três caminhos em diferentes direções, no caminho da direita você se depara com várias estátuas de pedra, no segundo caminho tudo parece normal e sem perigo a vista, e no terceiro não há saída, então você vai pelo...  ",
         alternativas: [
             {
-                texto: "Escolho o primeiro caminho, pois o segundo não tem saída.",
+                texto: "Escolho o primeiro caminho, pois o terceiro não tem saída.",
                 afirmacao: [
                     "Ops, não foi uma jogada de sorte, desse lado do labirinto você encontrou a Medusa, que transforma pessoas em pedra com seu olhar."
                 ],

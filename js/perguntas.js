@@ -33,7 +33,7 @@ export const perguntas = [
             {
                 texto: "Escolho o segundo , parece mais normal.",
                 afirmacao: [
-                    ""
+                    "Ops, "
                 ],
                 proxima: 6,
             },

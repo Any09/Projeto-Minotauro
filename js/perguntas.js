@@ -99,7 +99,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você e Teseu, ",
+        enunciado: "Você e Teseu, percebem o risco que estão correndo, mais resolvem continuar  ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",

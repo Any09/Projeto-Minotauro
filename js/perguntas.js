@@ -99,21 +99,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você e Teseu, percebem o risco que estão correndo, mais resolvem continuar  ",
+        enunciado: " ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Vocẽ tenta passar, mas pensa melhor e procura algo para cortar a corda, fazendo a pedra cair e rolar, liberando a passagem.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Pensar em todas as situações pode realmente salvar sua vida aqui."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Você tenta passar, mas acaba acionando a armadilha através de um fio tão fino que é quase invisível, mas você se joga para o outro lado, porém, a passagem agora está bloqueada, você não vai poder mais voltar, terá que seguir em frente.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    ""
                 ],
                 proxima: 6,
             },
@@ -149,7 +147,7 @@ export const perguntas = [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
@@ -157,7 +155,7 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 7,
+                proxima: 8,
             },
         ]
     },
@@ -170,6 +168,7 @@ export const perguntas = [
                     "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
                     "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
                 ],
+                
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
